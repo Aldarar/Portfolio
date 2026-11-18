@@ -11,7 +11,7 @@ Projekt przedstawia pełną EDA klasycznego zbioru Iris (150 obserwacji, 3 gatun
 **Narzędzia:** Python, pandas, seaborn, matplotlib, Jupyter.
 
 [Pobierz notebook](Iris.ipynb){ .md-button .md-button--primary }
-[Kod na GitHubie](https://github.com/username/repo){ .md-button }
+[Kod na GitHubie](https://github.com/Aldarar/Portfolio){ .md-button }
 
 <iframe class="autosize" src="iris.html" width="100%"
         style="border:1px solid var(--md-default-fg-color--lighter); overflow:hidden;"></iframe>
