@@ -1,0 +1,17 @@
+site_name: Portfolio – Data Science
+# Podmień na swój adres: https://<username>.github.io/<repo>/
+site_url: https://username.github.io/portfolio/
+
+theme:
+  name: material
+  language: pl
+  features:
+    - navigation.top
+    - content.code.copy
+
+markdown_extensions:
+  - attr_list      # pozwala pisać { .md-button } w markdownie
+  - admonition     # ramki typu !!! note
+
+extra_javascript:
+  - javascripts/iframe-resize.js
