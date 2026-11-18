@@ -1,6 +1,5 @@
 site_name: Portfolio – Data Science
-# Podmień na swój adres: https://<username>.github.io/<repo>/
-site_url: https://username.github.io/portfolio/
+site_url: https://aldarar.github.io/Portfolio/
 
 theme:
   name: material
